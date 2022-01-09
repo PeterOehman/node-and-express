@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/PeterOehman/node-and-express#readme",
   "dependencies": {
+    "express": "^4.17.2",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
